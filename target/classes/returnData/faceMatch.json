@@ -1,0 +1,18 @@
+{
+  "result":
+  {
+    "face_token":"43bbb996defbe2b9f99311e6fad5721b",
+    "user_list":[
+      {
+        "score":96.288429260254,
+        "group_id":"Aising",
+        "user_id":"36",
+        "user_info":"baiduyunFaceTest"
+      }]
+  },
+  "log_id":2016589101051,
+  "error_msg":"SUCCESS",
+  "cached":0,
+  "error_code":0,
+  "timestamp":1634442470
+}
