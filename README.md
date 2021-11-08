@@ -27,7 +27,7 @@
 
 ## 2. 架构设计
 
-![API Hosting (1)](image/API Hosting (1).png)
+![Home](image/home.png)
 
 ### 2.1 Data Management 模块
 
